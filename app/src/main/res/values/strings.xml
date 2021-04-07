@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Gallery App</string>
+    <string name="gg">close</string>
+    <string name="pie">pie</string>
+    <string name="_9_0">9.0</string>
+    <string name="recording1">Recording1</string>
+    <string name="vhvjhbkj">vhvjhbkj</string>
+    <string name="todo">TODO</string>
+    <string name="english">English</string>
+    <string name="hindi">हिन्दी</string>
+    <string name="drCough">Dry Cough</string>
+    <string name="fever_tiredness">Fever, Tiredness</string>
+    <string name="aches_and_pains">Aches and Pains</string>
+    <string name="runny_nose">Runny Nose</string>
+    <string name="sore_throat_or_diarrhea">Sore throat or diarrhea</string>
+    <string name="state_name">State Name</string>
+    <string name="click_me">click me</string>
+    <string name="india">India</string>
+    <string name="all_country">All Country</string>
+    <string name="symptoms">Symptoms</string>
+    <string name="hii28">hii2</string>
+    <string name="subtitle">Affected Countries</string>
+    <string name="_0">0</string>
+    <string name="today_cases">Today Cases</string>
+    <string name="total_cases">Total Cases</string>
+    <string name="recovered">Recovered</string>
+    <string name="todonnn">todo</string>
+    <string name="numberkkk">number</string>
+    <string name="todomm">TODO</string>
+    <string name="todooo">TODO</string>
+    <string name="todooooooo">TODO</string>
+
+</resources>
